@@ -28,7 +28,7 @@ def goTo (num, l, bytes):
 #This main function reads in the textfile with different binary number channels, creates bytes based on the bits, 
 #and finds and prints the password using the above functions 
 def main(): 
-    f1 = open("input.txt") 
+    f1 = open("tattooInput.txt") 
     pw = []
     n = 8
     password = ""
