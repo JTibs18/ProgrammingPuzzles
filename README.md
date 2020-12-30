@@ -1,5 +1,3 @@
 # ProgrammingPuzzles
 
-Solutions to online programming puzzles 
-
-Puzzles from https://hunt.reaktor.com/
+Solutions to online programming puzzles from https://hunt.reaktor.com/
