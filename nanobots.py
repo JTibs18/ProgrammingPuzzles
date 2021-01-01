@@ -25,7 +25,7 @@ def findNextChar(characters, baseVal):
     return nextChar 
 
 #This function finds the number of times each character appears in the given input text
-#INPUT: signal; a string of characters from the given input text. 
+#INPUT: signal; a string of characters from the given input text or a list of characters that appear after the most frequent character
 #OUTPUT: frequency; a dictionary of characters as keys and the frequency, number of appearances, as values  
 def getFrequency(signal): 
     frequency = {} 
